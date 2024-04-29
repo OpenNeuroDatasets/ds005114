@@ -1,0 +1,24 @@
+{
+  "participant_id": {
+    "Description": "unique participant identifier"
+  },
+  "Original_ID": {
+    "Description": "participant identifier from recording"
+  },
+  "URSI": {
+    "Description": "ANOTHER participant identifier: scan-generated"
+  },
+  "sex": {
+    "Description": "sex of the participant"
+  },
+  "Group": {
+    "Levels": {
+      "zero": "mTBI",
+      "one": "Control"
+    },
+    "Description": "Group"
+  },
+  "age": {
+    "Description": "age of the participant"
+  }
+}

@@ -1,0 +1,931 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+133.4580000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+136.7980000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+141.0420000000	n/a	n/a	STATUS	n/a	n/a	S149
+142.0500000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+143.3240000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+143.8620000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+147.0480000000	n/a	n/a	STATUS	n/a	n/a	S149
+147.4580000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+148.7760000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+149.2540000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+151.9300000000	n/a	n/a	STATUS	n/a	n/a	S149
+152.3420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+153.2400000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+153.7820000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+156.7120000000	n/a	n/a	STATUS	n/a	n/a	S149
+157.1420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+158.3900000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+158.8180000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+161.8460000000	n/a	n/a	STATUS	n/a	n/a	S149
+162.8740000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+164.0620000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+164.9420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+169.0620000000	n/a	n/a	STATUS	n/a	n/a	S149
+169.7300000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+170.8060000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+171.2220000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+174.9500000000	n/a	n/a	STATUS	n/a	n/a	S149
+175.8420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+176.8960000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+177.5340000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+182.1140000000	n/a	n/a	STATUS	n/a	n/a	S149
+182.8420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+183.9760000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+185.1900000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+188.2720000000	n/a	n/a	STATUS	n/a	n/a	S149
+188.7140000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+190.0000000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+190.6180000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+195.4540000000	n/a	n/a	STATUS	n/a	n/a	S149
+196.3540000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+197.4840000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+197.9580000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+202.7860000000	n/a	n/a	STATUS	n/a	n/a	S149
+203.2700000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+204.4120000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+205.0500000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+208.4720000000	n/a	n/a	STATUS	n/a	n/a	S149
+209.5220000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+210.5700000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+211.6500000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+216.2240000000	n/a	n/a	STATUS	n/a	n/a	S149
+216.9420000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+218.1700000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+218.8940000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+222.5160000000	n/a	n/a	STATUS	n/a	n/a	S149
+225.4860000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+227.0120000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+227.5860000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+232.0620000000	n/a	n/a	STATUS	n/a	n/a	S149
+232.6780000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+233.5720000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+234.3020000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+239.2780000000	n/a	n/a	STATUS	n/a	n/a	S149
+239.6460000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+240.7880000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+241.2900000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+243.8740000000	n/a	n/a	STATUS	n/a	n/a	S149
+244.3540000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+245.6200000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+246.1300000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+250.6520000000	n/a	n/a	STATUS	n/a	n/a	S149
+251.1540000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+252.4480000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+253.0380000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+257.0620000000	n/a	n/a	STATUS	n/a	n/a	S149
+257.7860000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+258.8580000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+259.6500000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+263.1700000000	n/a	n/a	STATUS	n/a	n/a	S149
+263.9540000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+265.0980000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+266.0380000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+269.7620000000	n/a	n/a	STATUS	n/a	n/a	S149
+270.4820000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+271.6080000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+272.2700000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+275.6360000000	n/a	n/a	STATUS	n/a	n/a	S149
+276.3960000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+277.4980000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+278.2440000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+281.4580000000	n/a	n/a	STATUS	n/a	n/a	S149
+282.2200000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+283.1340000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+283.6200000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+286.6080000000	n/a	n/a	STATUS	n/a	n/a	S149
+287.5200000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+288.5720000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+289.1160000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+292.2460000000	n/a	n/a	STATUS	n/a	n/a	S149
+292.7960000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+294.0400000000	n/a	n/a	Practice: filler trigger	n/a	n/a	S 99
+310.7340000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+312.3560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+315.8680000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+316.5040000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+317.7320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+318.2160000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+321.1040000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+321.6840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+322.8820000000	n/a	n/a	STATUS	n/a	n/a	S 19
+323.6280000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+327.3460000000	n/a	n/a	STATUS	n/a	n/a	S 69
+327.6560000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+328.8380000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+329.3720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+333.2500000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+333.6680000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+334.6440000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+335.3720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+340.1980000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+340.8200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+341.7580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+342.3040000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+346.8240000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+347.4600000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+348.6360000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+349.2320000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+354.0060000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+354.5040000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+355.6320000000	n/a	n/a	CueBOnset	n/a	n/a	S  8
+356.4080000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+360.9340000000	n/a	n/a	STATUS	n/a	n/a	S 58
+361.7240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+362.7960000000	n/a	n/a	CueAOnset	n/a	n/a	S  5
+363.4480000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+367.9320000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 55
+369.2720000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+370.1800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+370.6840000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+373.9040000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+374.8800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+375.9500000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+376.5280000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+381.3040000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+382.7960000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+383.6680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+384.2080000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+388.0320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+388.5880000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+389.4900000000	n/a	n/a	CueBOnset	n/a	n/a	S  8
+390.6000000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+395.0780000000	n/a	n/a	STATUS	n/a	n/a	S 58
+395.4480000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+396.7560000000	n/a	n/a	STATUS	n/a	n/a	S 13
+398.0640000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+402.3420000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+403.8760000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+405.1100000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+406.8560000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+407.4120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+412.1420000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+412.7560000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+413.6840000000	n/a	n/a	STATUS	n/a	n/a	S 36
+414.4260000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+419.1040000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 86
+419.7860000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+420.9840000000	n/a	n/a	CueAOnset	n/a	n/a	S  6
+421.6020000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+424.6740000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 56
+425.3460000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+426.5860000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+427.0900000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+432.0740000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+432.9340000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+433.7840000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+434.3420000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+436.9720000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+438.0540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+439.2380000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+440.1380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+444.8580000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+445.6820000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+446.5520000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+447.1380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+451.7700000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+452.4580000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+453.3320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+454.0100000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+458.8840000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+459.6980000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+460.6460000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+461.9140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+466.3840000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+469.4720000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+471.1660000000	n/a	n/a	CueAOnset	n/a	n/a	S  3
+471.7340000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+474.7740000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 53
+476.2740000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+477.3580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+477.8980000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+481.4680000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+482.2660000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+483.5320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+483.9620000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+488.8500000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+489.8460000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+490.8140000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+491.5660000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+494.2020000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+494.6660000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+495.8300000000	n/a	n/a	CueAOnset	n/a	n/a	S  5
+496.3020000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+499.1860000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 55
+500.0060000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+501.2500000000	n/a	n/a	STATUS	n/a	n/a	S 13
+501.9380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+506.5680000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+507.5740000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+508.4800000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+510.2420000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+510.7900000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+513.5820000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+514.0260000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+515.3100000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+515.8020000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+519.5700000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+520.0300000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+520.9120000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+521.6780000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+525.4440000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+526.0740000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+527.0700000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+527.8300000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+530.5100000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+531.0620000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+532.3560000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+532.9580000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+537.1380000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+537.7460000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+538.7640000000	n/a	n/a	CueBOnset	n/a	n/a	S 10
+539.5660000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+542.9920000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 60
+543.8500000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+544.8880000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+545.5420000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+548.2780000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+549.3940000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+550.7100000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+552.1200000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+552.6800000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+556.1980000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+557.1080000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+558.2940000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+559.7540000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+560.1160000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+563.1940000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+563.9760000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+564.8220000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+565.3920000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+569.3180000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+570.4240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+571.3140000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+572.0200000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+575.6420000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+576.0200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+577.0860000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+577.7160000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+581.9840000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+582.5480000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+583.7300000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+584.2720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+588.9980000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+589.5200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+590.6080000000	n/a	n/a	CueAOnset	n/a	n/a	S  3
+592.3440000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+595.2740000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 53
+596.1840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+597.3540000000	n/a	n/a	STATUS	n/a	n/a	S 19
+598.0040000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+601.5320000000	n/a	n/a	STATUS	n/a	n/a	S 69
+601.8480000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+603.1580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+603.6560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+608.1760000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+609.0520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+610.3240000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+611.0240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+614.3000000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+615.8960000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+617.1520000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+618.4940000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+619.0440000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+623.9300000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+624.5240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+625.4560000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+626.0600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+629.2320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+629.8680000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+630.9760000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+631.4880000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+635.0540000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+635.6400000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+636.7480000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+637.3680000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+640.1040000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+640.6840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+680.1200000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+681.2720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+684.5500000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+685.3160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+686.4440000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+687.4320000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+691.6620000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+692.1180000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+693.2060000000	n/a	n/a	CueAOnset	n/a	n/a	S  5
+693.9140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+697.0480000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 55
+697.9100000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+699.1800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+699.7700000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+704.1460000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+704.8780000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+705.7400000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+706.2220000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+710.6060000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+711.6540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+712.5520000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+713.1060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+716.1920000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+716.8980000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+718.1040000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+718.5180000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+723.3900000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+723.9260000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+724.9500000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+725.4340000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+729.2620000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+730.4380000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+731.2920000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+731.6860000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+736.3600000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+737.1660000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+738.3560000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+739.0260000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+741.8620000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+742.5820000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+743.4900000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+744.0500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+747.1640000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+747.7260000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+748.7760000000	n/a	n/a	STATUS	n/a	n/a	S 13
+749.8940000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+753.0200000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+753.5860000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+754.4460000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+755.0500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+759.8320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+760.4100000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+761.2580000000	n/a	n/a	STATUS	n/a	n/a	S 32
+761.9700000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+764.9500000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 82
+765.3140000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+766.5940000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+767.1460000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+769.9820000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+770.9020000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+771.8620000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+773.5060000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+773.9820000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+776.7600000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+777.3020000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+778.3220000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+778.8140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+783.1860000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+783.7420000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+785.0320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+785.6060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+788.3880000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+789.0060000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+789.9140000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+790.4620000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+793.8740000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+794.5460000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+795.4860000000	n/a	n/a	STATUS	n/a	n/a	S 19
+796.2100000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+799.0920000000	n/a	n/a	STATUS	n/a	n/a	S 69
+799.8500000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+800.7700000000	n/a	n/a	STATUS	n/a	n/a	S 25
+801.3860000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+806.1560000000	n/a	n/a	STATUS	n/a	n/a	S 75
+806.4820000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+807.3480000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+808.1500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+810.7360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+811.2940000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+812.4480000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+813.9740000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+814.7340000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+818.7060000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+819.3220000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+820.5680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+821.2980000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+823.8740000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+824.4860000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+825.3340000000	n/a	n/a	STATUS	n/a	n/a	S 13
+826.7140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+829.9300000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+830.2620000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+831.1220000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+832.7000000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+836.6240000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+837.3280000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+838.6040000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+840.2160000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+840.7720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+843.5540000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+844.0800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+845.1820000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+845.6600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+850.3320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+850.8160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+852.0600000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+853.0720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+856.4900000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+857.3800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+858.7040000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+859.4600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+864.4420000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+865.4520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+866.5740000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+867.2800000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+870.1640000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+870.6760000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+871.4900000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+871.9880000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+875.3660000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+875.9360000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+877.0760000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+877.9360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+882.8140000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+883.5320000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+884.5600000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+885.1840000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+889.8620000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+890.4880000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+891.6400000000	n/a	n/a	CueAOnset	n/a	n/a	S  2
+892.1600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+896.2380000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 52
+897.5200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+898.6860000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+899.1480000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+903.5700000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+904.1840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+905.4480000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+905.8360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+909.6100000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+910.2480000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+911.4720000000	n/a	n/a	STATUS	n/a	n/a	S 20
+912.1680000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+915.8340000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 70
+916.7400000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+918.0320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+918.7000000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+923.7860000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+925.7360000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+927.0240000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+928.5180000000	n/a	n/a	CueAOnset	n/a	n/a	S  2
+929.8000000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+934.2740000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 52
+934.9320000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+936.2020000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+937.9800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+938.3840000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+941.6560000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+942.3520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+943.6680000000	n/a	n/a	STATUS	n/a	n/a	S 19
+944.7920000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+948.3660000000	n/a	n/a	STATUS	n/a	n/a	S 69
+948.8680000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+950.1120000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+951.0280000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+954.5920000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+957.4760000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+958.9540000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+959.5240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+962.4600000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+963.4520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+964.4900000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+965.1440000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+968.6680000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+968.9800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+970.1280000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+970.6360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+973.7680000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+974.1700000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+975.4460000000	n/a	n/a	STATUS	n/a	n/a	S 25
+976.0860000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+979.3060000000	n/a	n/a	STATUS	n/a	n/a	S 75
+979.9100000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+981.1340000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+981.5180000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+986.3020000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+986.9580000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+988.0300000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+988.5340000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+993.4660000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+996.4180000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+997.9280000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+998.4420000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1003.3140000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1003.9540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1152.8900000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1153.8360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1158.1080000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1158.4960000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1159.3160000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1159.7640000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1164.7360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1165.3800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1166.2800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1166.6720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1169.6520000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1170.5800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1171.6140000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1172.2400000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1174.9200000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1175.5160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1176.8320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1177.2760000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1181.6480000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1182.2040000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1183.1920000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1183.6560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1186.6820000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1187.5640000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1188.4600000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1188.9840000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1193.8120000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1194.4480000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1195.4740000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1195.9560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1200.6740000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1201.2440000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1202.2680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1202.7560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1205.4900000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1206.0080000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1207.2340000000	n/a	n/a	CueAOnset	n/a	n/a	S  3
+1207.6960000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1212.0160000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 53
+1212.8000000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1213.6260000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1214.0120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1218.7440000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1219.3640000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1220.4900000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1220.9240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1225.5060000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1226.6400000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1227.5360000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1228.0880000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1231.5120000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1232.4840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1233.5080000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1234.0240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1237.2840000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1238.1640000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1239.1460000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1240.0400000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1243.8100000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1244.4160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1245.5380000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1246.0680000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1250.3380000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1251.1240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1252.2160000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1253.0960000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1256.7120000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1257.3180000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1258.6420000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1259.5740000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1262.2000000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1262.9420000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1264.1800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1264.8300000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1269.4640000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1270.1180000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1271.0420000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1271.6500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1275.9240000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1276.7540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1277.7700000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1278.2140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1282.0300000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1282.5940000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1283.7580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1284.3020000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1287.8700000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1288.3980000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1289.5140000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1289.9220000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1293.0880000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1293.6700000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1294.5980000000	n/a	n/a	STATUS	n/a	n/a	S 15
+1295.4460000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1298.1720000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 65
+1298.5900000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+1299.4120000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1300.7880000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+1301.3980000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1305.9220000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+1306.3300000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1307.3820000000	n/a	n/a	STATUS	n/a	n/a	S 25
+1308.0660000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1310.8900000000	n/a	n/a	STATUS	n/a	n/a	S 75
+1311.2980000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1312.2320000000	n/a	n/a	STATUS	n/a	n/a	S 25
+1312.8060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1316.9800000000	n/a	n/a	STATUS	n/a	n/a	S 75
+1317.7860000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1318.7240000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1319.6940000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1323.0200000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1324.9540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1326.2740000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1327.0700000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1330.8880000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 64
+1331.4580000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1332.4820000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1333.1100000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1337.2300000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1337.7740000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1338.8240000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1339.4140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1343.0860000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1343.8140000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1345.1320000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1345.8380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1350.7200000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1351.4020000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1352.2800000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1353.1540000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1356.1400000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1357.1300000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1358.3200000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1358.9300000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1362.3980000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1362.8300000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1363.9580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1364.5420000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1369.3780000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1372.6480000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1374.0580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1374.6460000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1378.6220000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1379.2340000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1380.2000000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1380.8300000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1385.3160000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1388.6040000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1389.9300000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1392.9340000000	n/a	n/a	Feedback: CueNoResp	n/a	n/a	S 40
+1397.7660000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1398.5800000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1399.4440000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1400.0560000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1402.9840000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1403.6720000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1404.7780000000	n/a	n/a	STATUS	n/a	n/a	S 25
+1405.5440000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1408.4200000000	n/a	n/a	STATUS	n/a	n/a	S 75
+1409.4880000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1410.7680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1411.3640000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1415.9360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1416.4920000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1417.6300000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1418.3600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1421.1880000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1422.1200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1423.2180000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1423.8360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1428.0660000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1430.9700000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1432.7640000000	n/a	n/a	CueAOnset	n/a	n/a	S  3
+1433.5120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1437.6800000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 53
+1438.2840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1439.1560000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1439.6120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1444.0400000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1445.3200000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1446.4560000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+1447.3760000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1450.3140000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+1451.6240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1452.8640000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1453.7240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1457.0420000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1460.3640000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1461.9080000000	n/a	n/a	CueAOnset	n/a	n/a	S  4
+1465.1460000000	n/a	n/a	Feedback: CueNoResp	n/a	n/a	S 40
+1469.6760000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 54
+1470.3720000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1471.2700000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1471.9080000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1475.5320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1477.0400000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+1477.8980000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1479.2740000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1480.4280000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1483.0140000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1483.7360000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1547.9960000000	n/a	n/a	CueAOnset	n/a	n/a	S  3
+1548.8380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1552.2580000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 53
+1553.5460000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1554.4060000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1554.9380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1558.1980000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1558.7780000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1559.8080000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1560.3140000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1564.6400000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1565.5940000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1566.9220000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1567.6980000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1570.2780000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1570.7380000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1571.8380000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1573.1860000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1577.8600000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1578.5380000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+1579.4720000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1581.0980000000	n/a	n/a	STATUS	n/a	n/a	S 21
+1582.2540000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1587.1900000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 71
+1587.7060000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1588.9520000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1589.8380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1592.9280000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1593.5700000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1594.7060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1595.4220000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1599.2520000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+1600.3900000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+1601.4000000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1603.1960000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1603.9780000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1608.2960000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1608.9980000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1610.0920000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1610.6060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1613.3460000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1614.0420000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1615.0080000000	n/a	n/a	STATUS	n/a	n/a	S 31
+1615.7900000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1619.0680000000	n/a	n/a	STATUS	n/a	n/a	S 81
+1619.8260000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+1620.7280000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1622.4060000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1622.9220000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1627.6420000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1628.8300000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1630.0580000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1630.7580000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1634.3360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1635.2100000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1636.3480000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1637.0780000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1639.9060000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1640.9540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1641.9200000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1642.6700000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1645.8460000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1647.0900000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1648.1100000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1648.8460000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1651.9360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1652.8380000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1653.8980000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1657.1200000000	n/a	n/a	Feedback: CueNoResp	n/a	n/a	S 40
+1662.5560000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+1665.5100000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1666.8680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1667.2500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1671.7340000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1672.1620000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1673.3280000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1673.9380000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1678.4620000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1678.9160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1680.1060000000	n/a	n/a	STATUS	n/a	n/a	S 24
+1681.2960000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1685.6760000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 74
+1686.3120000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1687.2700000000	n/a	n/a	CueAOnset	n/a	n/a	S  2
+1688.2240000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1691.9520000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 52
+1693.0240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1694.3180000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1694.9200000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1699.3000000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1700.2160000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+1701.4300000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1702.9400000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1703.6120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1707.6380000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1709.1840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1710.2900000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1710.8480000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1714.3660000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1715.0520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1716.0440000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1716.5520000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1719.5340000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1720.1120000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1721.2960000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1721.8640000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1726.5480000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1727.0920000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1728.0920000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1729.1720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1732.4360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1735.5060000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1737.2860000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+1737.8720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1740.8080000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+1742.5840000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1743.8280000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1744.5320000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1747.4700000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1748.1760000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1749.2140000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1749.7720000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1752.8060000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1753.4520000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1754.7180000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1755.3360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1758.0740000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1758.5720000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1759.8180000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+1760.6080000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1764.2820000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+1764.5880000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1765.5740000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1766.0600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1769.9360000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1770.5760000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1771.8480000000	n/a	n/a	CueBOnset	n/a	n/a	S  7
+1772.4360000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1775.6560000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 57
+1776.2440000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1777.3340000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1778.1120000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1780.6900000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1781.4160000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1782.2340000000	n/a	n/a	CueAOnset	n/a	n/a	S  6
+1782.7520000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1785.4880000000	n/a	n/a	Probe_aY_onset	n/a	n/a	S 56
+1786.2400000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
+1787.4680000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1788.1600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1789.3500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.4000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.5000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.5500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.6000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.7040000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1789.7500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.8000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.8500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1789.9000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.0500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.1000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.1500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.2500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.3500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.4000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.4500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.5000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1790.6000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1791.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1791.0500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1791.4240000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1791.6500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1791.8500000000	n/a	n/a	STATUS	n/a	n/a	boundary
+1792.5600000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1795.9220000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1796.6000000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1797.7340000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1798.4060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1802.5340000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1803.5820000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1804.5960000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1805.1500000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1809.9320000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1810.9180000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1811.9120000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1813.0220000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1816.6940000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1817.2660000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1818.2040000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1818.9540000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1822.4820000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1825.8040000000	n/a	n/a	Feedback: ProbeNoResp	n/a	n/a	S 46
+1827.3140000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1827.8940000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1831.9120000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1832.5940000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1833.7240000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1834.3340000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1839.2600000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1839.7540000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 43
+1840.9720000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1841.8460000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1844.9820000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 63
+1846.0140000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 44
+1847.2120000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1848.9920000000	n/a	n/a	CueAOnset	n/a	n/a	S  1
+1849.5620000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1853.5880000000	n/a	n/a	Probe_aX_onset	n/a	n/a	S 51
+1854.3700000000	n/a	n/a	Response: Probe_Incorr	n/a	n/a	S 42
+1855.5180000000	n/a	n/a	Feedback: ProbeErr	n/a	n/a	S 45
+1856.8760000000	n/a	n/a	STATUS	n/a	n/a	S 30
+1857.5060000000	n/a	n/a	Response: CueCorr	n/a	n/a	S 37
+1862.0780000000	n/a	n/a	Probe_bY_onset	n/a	n/a	S 80
+1863.3700000000	n/a	n/a	Response: Probe_Corr	n/a	n/a	S 41
